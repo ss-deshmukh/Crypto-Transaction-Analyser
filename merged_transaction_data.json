@@ -1,0 +1,566 @@
+[
+    {
+        "tx_hash": "8e5e6b898750a7afbe683a953fbf30bd990bb57ccd2d904c76df29f61054e743",
+        "value": 2413000,
+        "date": "2020-08-14T17:24:59Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "b357ef869a27affd4442e57367396dc404b5757da117d8903ef196fd021b57bc",
+        "value": 4678300000,
+        "date": "2012-06-08T16:28:26Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "95872d224d3f8e9da7a6d62f8c478897c6f0da82178c6e88e9cedf6c1d2a0ce1",
+        "value": 4678300000,
+        "date": "2012-06-08T10:45:47Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "7445b79c8293dcacb1af66163cdb70fcfe7aca4858ad7653e6fae8f4f139db4b",
+        "value": 100000000,
+        "date": "2012-05-20T07:48:13Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "92b155a730680b0fb8df2fd14e27d9db3f29ca64648f6a1c80ec0b5770f3a88f",
+        "value": 100000000,
+        "date": "2012-05-18T19:15:14Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "7a9884839ce6925f9b490b00d52f4a5cd869d431c837ff59acd03b6c444ab05b",
+        "value": 1000000,
+        "date": "2012-05-06T08:58:46Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "599e47a8114fe098103663029548811d2651991b62397e057f0c863c2bc9f9ea",
+        "value": 1000000,
+        "date": "2012-05-04T13:32:23Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "dc95140fced008f892249144b138b0d3d992a02ff6be65a2efbeb0ce34bb9d1d",
+        "value": 10000000,
+        "date": "2012-04-20T23:27:52Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "6f0d38ccc40cce1c4955eeb063579bfc8a9e9c11d23018c7df4cda7c31bc6c9b",
+        "value": 10000000,
+        "date": "2012-04-19T14:57:21Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "1bd9f150b5cd2a649a9321269dc6a1e00b7a565c0967aa687efc7ab10f2f5f6d",
+        "value": 1000000,
+        "date": "2012-04-19T12:13:40Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "ac575d67a009457136b4a9d0981e39f346f3cacd159cab249299b40e546beaa5",
+        "value": 1000000,
+        "date": "2012-04-19T10:14:50Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "6cb7a76328ecbbe70afc54badd840d01752eec809b98c643b2f3918d5d098bf0",
+        "value": 93397907,
+        "date": "2012-04-18T00:47:37Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "835e32e129d236b25155278a1d2aa6260e766933bbcedeff7d546c4f0e0398b1",
+        "value": 193397907,
+        "date": "2012-04-17T08:59:40Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "cb2c0d9c5ad03553158827ec6842128bc73d5b2fe068e87805860c7b47193aad",
+        "value": 73388228,
+        "date": "2012-04-16T12:33:15Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "b157d03b92a932499aa69dd15b5b1c182b8a19a1463df3e492ebc8c27a6b6e6b",
+        "value": 50000,
+        "date": "2012-04-16T03:14:15Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "e4ce2b649d082c3e283042f73e13f213e410e024668694ef1cd835d6cf897cc1",
+        "value": 254994511,
+        "date": "2012-04-15T23:53:55Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "9dc4cb433159b5aa61751c0135a9178ef34bdc5fc0d250776b61bc1d6a832470",
+        "value": 80702849,
+        "date": "2012-04-15T14:43:16Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "2dfff0ba66c8ea264143559111880e2f2be8d346654e42d2b05394d595b108b0",
+        "value": 254994511,
+        "date": "2012-04-15T12:36:04Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "116c609df6200cb92c9219ba70de8e49593974bd746872b211e8d45dd7de861a",
+        "value": 80702849,
+        "date": "2012-04-14T22:42:56Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "e4719eeb14823f410457e57ce9b75cb75d33faafef35e9842a719cfcbc28d384",
+        "value": 25000,
+        "date": "2012-04-12T07:31:58Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "c646c1916dc8a5b807952900b4c9b8821cd8c51f28fa101b6f68ea6afbe5e7f1",
+        "value": 25000,
+        "date": "2012-04-12T02:50:10Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "5f6a9b8b565e5b714ec63218a1d5ae0b56a1ad673d9b90ee113b986557e4640d",
+        "value": 326000000,
+        "date": "2012-04-07T06:33:00Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "7f43bf5e99ee51233cd2dc0058f33d54ae046fab4c4036b0f63aabbfbff4fcec",
+        "value": 326000000,
+        "date": "2012-04-06T19:23:22Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fd1e014c760e9758fc1fccf5eaa7b9bb95243f95149162de682ba30f184f04e8",
+        "value": 100000000,
+        "date": "2012-04-06T10:04:25Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "9a90c2797c61ac55ad13c7e8e3eee9835378e44dcc9474f038b23d2756527d47",
+        "value": 100000000,
+        "date": "2012-04-05T15:31:27Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "a5108a2d9173d0c381314a3ac71d4c20a02c00ccb1b916a2986903413ce44557",
+        "value": 300000000,
+        "date": "2012-02-27T12:52:22Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "982969b2c54fc6dad7d90a5cf71765a8922d8a0fc10cca59e01d71c4899e9ade",
+        "value": 43343553,
+        "date": "2012-02-27T12:22:30Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "09dfadbc058e268704b88ab714cdd56a1f37c9e5fd0105c8dda6e28b955ef4a7",
+        "value": 300000000,
+        "date": "2012-02-25T22:59:37Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "449dd4d701c27841940be8e60f8baebee2365e226baa72d3dd43ba45a497420c",
+        "value": 43343553,
+        "date": "2012-02-21T19:40:44Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fb3130500bde25b1881dbd65dcf34c92fbbfe4fa9c957670215e8fc5dc5b9c54",
+        "value": 9900000,
+        "date": "2012-02-21T19:40:44Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "c5a0f9c07f6a28b6b83e71c6404dd42c134342244ce8bb5c8c164e64bc9cc806",
+        "value": 100000000,
+        "date": "2012-02-21T18:55:51Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "d623ee74b069eaa223938caeaf6ac7c9d615a6ccf4b1c264e1750c85b8a43bc1",
+        "value": 9900000,
+        "date": "2012-02-13T15:25:07Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "cb11dbad65622c83c7e46d36d0a1f1b2a6057b3f30ea2b8ac1dbe25fe3fa6601",
+        "value": 900000,
+        "date": "2012-02-13T15:25:07Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "f2b3317c7fc18632cf69c40ada72806f00436156a4cd8c91de5e8ea913619dda",
+        "value": 900000,
+        "date": "2012-02-13T15:25:07Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "5f787c1085d1a957b73fe70432cecde7e1ec4909c77b32b974f151055cab13bb",
+        "value": 100000000,
+        "date": "2012-02-12T18:11:16Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "793efce6a73a68d2902e67a00190867124beebbd64f36eaec3f9231204cd4712",
+        "value": 5452304,
+        "date": "2012-02-04T19:37:10Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "822be984963f4fae8e288be1974e44aaf83879256ab5a501ad5a32086ad86a4a",
+        "value": 40000000,
+        "date": "2012-02-03T11:53:17Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "a543735c6d6038c6dbc983100363ee4ffd74313ddfa95ecd80036f92c5cec353",
+        "value": 313370000,
+        "date": "2012-02-03T11:53:17Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "23b397edccd3740a74adb603c9756370fafcde9bcc4483eb271ecad09a94dd63",
+        "value": 1000000,
+        "date": "2012-02-03T00:14:14Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "ef8b0524fc0974b84390322983e48eed6de0fab5ce20e0321b6a9cb4119748bf",
+        "value": 40000000,
+        "date": "2012-02-02T22:28:20Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "a4698d09b1590d9f3088e7b13df5c621892e46ccc5b13a9408c46f3d0d306a7a",
+        "value": 19521249,
+        "date": "2012-02-02T14:49:54Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "59ef4de62e1d44008c4939546402d3697ef1077a114bd86ad6d4e20372b2f46d",
+        "value": 313370000,
+        "date": "2012-01-28T18:28:10Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "4d43eed38534b6cd61e35744876a666ef1d16f38c182b468d848be7875160754",
+        "value": 100000,
+        "date": "2012-01-26T17:44:23Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "7f8b9f21b9b21862191d4a61565726bd2255e742c1203c8789e363a5186ec063",
+        "value": 100000,
+        "date": "2012-01-19T03:12:30Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "f329e55c2de9b821356e6f2c4bba923ea7030cad61120f5ced5d4429f5c86fda",
+        "value": 1000000000,
+        "date": "2012-01-17T20:20:25Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "69b2bc27c6df2f671276c4d1ab490759a4a1b9b8d5791cd3492f9c4160392494",
+        "value": 1000000000,
+        "date": "2012-01-16T14:38:14Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "ce1048bff11524cbce99c06d36cb9a50dc9dc1a52f2b57479f946f9bc3c6d25f",
+        "value": 500000000,
+        "date": "2012-01-09T17:24:35Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "86565c52cb9478fe733e048dd58f452dc3ce54b7fafc81eda268b3ef9a7bde09",
+        "value": 962304,
+        "date": "2012-01-07T00:23:17Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fa1eaa558b750efe833e0beebb0214ed64bc857f260f1a84dc4cb46d930f8f40",
+        "value": 1500000000,
+        "date": "2011-12-23T12:56:24Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "8df9935c9f633b303374ab9d4ec3600252bd138c51583f2bb18fb95330d22351",
+        "value": 1500000000,
+        "date": "2011-12-22T12:02:32Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "f2ab09573ea137920e7ac6792c29a48937e8ad2f8141a0e5d3323b571c3e2a9b",
+        "value": 4000000,
+        "date": "2011-12-22T06:37:39Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "f6e4c28290976de1793c55460bdb363cfb4357942763ad3741925275973f7a02",
+        "value": 1500000,
+        "date": "2011-12-14T13:31:26Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "ea6e35e18a2a58ad8e5a01a59e485d1b1b218439580a6e1667fd0e46aaa1f44e",
+        "value": 4000000,
+        "date": "2011-12-13T17:42:48Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "a7923e5ebc1abbb2ab95c5b44759f5219695e27cdf8d6fc54c6b79a69c16fe06",
+        "value": 94742304,
+        "date": "2011-12-13T02:06:58Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "5d27927efb4c054bac41d55caf36b4624d9bdc015caaeda3d97c7e5668c2f1d1",
+        "value": 94742304,
+        "date": "2011-12-12T18:13:49Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "75fc9439a37d186a684ad7d39af1fc1f04b9325f24bffd164fc50318af518d6b",
+        "value": 93242304,
+        "date": "2011-12-11T15:29:47Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "f8651c926ed676dcbbdba5d471c685dfd3fe5f32e04170cdc085f45ec8294480",
+        "value": 692980000,
+        "date": "2011-12-10T17:31:32Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "1924afde87420363d22fa123e7ae38da3381487408dc12e2a3fe6119c068fc8f",
+        "value": 793980000,
+        "date": "2011-12-09T17:18:07Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "b8e6a28ef58c226a732463c69db50a171f25ba9b9fc3dff0bc5ae2168976e47a",
+        "value": 895990000,
+        "date": "2011-12-09T16:38:21Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "e85a8fc3e7bcb7a2c59899a1558dc3e4576b3e15d1261553695a2f009a33a88f",
+        "value": 896990000,
+        "date": "2011-12-09T16:19:35Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "4028fcf815089cedc564a0804ef90ca91d94a6d144c3c6659de8f2eae7317e64",
+        "value": 999000000,
+        "date": "2011-12-09T16:10:42Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "64d3334d500683fde32d1fefad1586bfbf77057dc7f39e6b795929cc323076ea",
+        "value": 999000000,
+        "date": "2011-12-09T09:27:48Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "e53d0af5308845037a4b6282a9f05f188e233bf0250c1dbd664089c9fc05cd0b",
+        "value": 100000000,
+        "date": "2011-12-06T00:10:49Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "37c3fdc1ab07d7dbfc7f65669c12fa04e316a351c7eb7e44dfe8adeb741e4272",
+        "value": 30000000,
+        "date": "2011-12-05T15:10:55Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "c5a9cd11a68ed9c73b3451fe62a915b4d6da34492e1bcc594fd68d24ba97577d",
+        "value": 10000000,
+        "date": "2011-12-03T18:39:13Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "775e297ed8664769585920de3aae3ffd36de39fe4aa95c2c578686ccac072fad",
+        "value": 300000000,
+        "date": "2011-11-28T16:36:27Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "2a96e08be365f30817bdaf64a4e765c9f49357e59216e54a03c194b69526a40d",
+        "value": 100000,
+        "date": "2011-11-25T01:31:06Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "2bb934de684f678d61de2835be3dfb436e442088223e658e7b2c7c4e904f2c5c",
+        "value": 100000000,
+        "date": "2011-11-24T19:00:22Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fd7100d523f6816c51c47d27b80f659f7329c947d5e3d1c369aba02b26f42e66",
+        "value": 300000000,
+        "date": "2011-11-23T08:36:35Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "bd1248b1608d511cf41528df3c6cfd91c8d61818e58ba4732cde862a9c234d02",
+        "value": 210000000,
+        "date": "2011-11-17T17:15:57Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "ebfcf2fc5018de28eaecef09af936658ca4afc68ee67da93d1448cce6d7ba954",
+        "value": 100000,
+        "date": "2011-10-20T11:20:13Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "6da5c7ed363045d09195107be37510c5c98cf9d6dab0eb3d451e3416b9787c2e",
+        "value": 210000000,
+        "date": "2011-10-18T10:59:19Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "f7d6bb76619bbad368c5ddf0e1fe31b44faec54edff2fda7487632fc10ffdb83",
+        "value": 10000000,
+        "date": "2011-10-17T14:04:35Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "56cc14f465e9e018613f0c79edd3b4efa9ed2544a21f1b43d8607966ac55abc7",
+        "value": 200000000,
+        "date": "2011-10-15T17:32:08Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "03ddf897a0deb8b20e725892a4d7c0cd218793294df728960b877d1099fd3601",
+        "value": 200000000,
+        "date": "2011-10-13T11:59:25Z",
+        "source": "blockcypher",
+        "sources": [
+            "blockcypher"
+        ]
+    },
+    {
+        "tx_hash": "6c650b5d49cdcee0a9dcf274caa23d11884a3690a74b40517698609f77296234",
+        "value": 200000000,
+        "date": "2011-10-12T08:18:09Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "d0dd85f88826a6ac1d6d367f0338d0a2397c6e8a2b390a3fc4f1265bb888fc1f",
+        "value": 50000,
+        "date": "2011-10-08T23:59:28Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "df70c9c1b9cde3fbe35c6655dd49e90ca6c57e6b2f15199be8580f86cdeb300d",
+        "value": 50000,
+        "date": "2011-10-03T00:02:06Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "7f9cf3686cb74daf0a76267acbfb2b6ad82ba22a31ec2fc20abe683707520587",
+        "value": 10000000,
+        "date": "2011-10-01T23:45:12Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fe9576abbd37d1dbf545388739b54e7a532844794bc692c862fc9e38584887a0",
+        "value": 500000,
+        "date": "2011-09-30T23:38:49Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "bde8cc47165084d4e487293902a9f8272d187492c32aa76c06d360e565c1dea7",
+        "value": 50000,
+        "date": "2011-09-29T23:54:00Z",
+        "source": "blockcypher"
+    },
+    {
+        "tx_hash": "fce917664a709fcf129fe9a8bbc94e128ac33bf2efa4bfd047434a62f925cceb",
+        "value": 500000,
+        "date": "2011-09-16T15:48:02Z",
+        "source": "blockcypher"
+    }
+]
